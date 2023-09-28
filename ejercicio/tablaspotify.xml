@@ -3,8 +3,9 @@
     <tr>
       <th scope="col">#</th>
       <th scope="col">Titulo</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      <th scope="col">ALBÚM</th>
+      <th scope="col">Fecha incorporacion </th>
+      <th scope="col">Duracion</th>
     </tr>
   </thead>
   <tbody>
